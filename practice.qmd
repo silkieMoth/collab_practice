@@ -2,6 +2,13 @@
 title: "Naomi's Contribution Doc"
 author: "Naomi Moraes"
 format: html
+editor_options: 
+  chunk_output_type: console
 ---
+```{r}
+library(tidyverse)
+```
 
 Hello! :) This is Naomi - collaborating with Joshua for EDS 212 - GIT collaboration practice ~~
+
+joshs test message 123 123 >>>>>>>:)
