@@ -1,0 +1,7 @@
+---
+title: "Naomi's Contribution Doc"
+author: "Naomi Moraes"
+format: html
+---
+
+Hello! :) This is Naomi - collaborating with Joshua for EDS 212 - GIT collaboration practice ~~
